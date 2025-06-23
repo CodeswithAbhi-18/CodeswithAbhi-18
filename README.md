@@ -1,5 +1,4 @@
-👋 Hello Everyone 
-I'm Abhi
+👋 Hello Everyone <br>I'm Abhi
 
 🎓 Second Year Cse student
 🔐 Currently studying CyberSecurity- Google Professional Certificate + TryHackMe

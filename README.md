@@ -1,7 +1,7 @@
-#👋 Hello Everyone 
-#I'm Abhi
+👋 Hello Everyone 
+I'm Abhi
 
-#🎓 Second Year Cse student
+🎓 Second Year Cse student
 🔐 Currently studying CyberSecurity- Google Professional Certificate + TryHackMe
 ⚡ Always Striving to learn more and more about penetration testing and cybersec analytics
 📘 Currently in THM rooms and documenting my progress

@@ -4,4 +4,4 @@
 
 I have a basic hands on experience in Python, MySQL and C, currently working on understanding the ways of Kali Linux
 
-Notes: <br> Come check out the notes i am making along the way of studying cybersec
+Notes: <br> Come check out the notes i am making along the way of studying cybersecurity
